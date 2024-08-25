@@ -10,7 +10,7 @@ Score tracking: Keeps track of the player's score, encouraging high scores.
 
 Technologies used:
 
-Python
+Python ,
 Pygame
 
 How to play:
